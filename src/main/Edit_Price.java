@@ -11,10 +11,7 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Edit_Price extends javax.swing.JFrame {
 Connection con = null;
 PreparedStatement pre = null;
