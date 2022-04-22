@@ -7,10 +7,7 @@ package main;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Retrieval_Drug extends javax.swing.JFrame {
 
     public Retrieval_Drug() {
