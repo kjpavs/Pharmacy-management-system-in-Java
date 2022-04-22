@@ -13,14 +13,9 @@ import java.awt.Font;
 import java.awt.Toolkit;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Login extends javax.swing.JFrame {
-/**
-	 * 
-	 */
+
 private static final long serialVersionUID = 1L;
 Connection con = null;
 PreparedStatement pre= null;
