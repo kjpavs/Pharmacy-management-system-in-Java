@@ -13,10 +13,7 @@ import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Inbox extends javax.swing.JFrame {
 Connection con = null;
 PreparedStatement pre= null;
