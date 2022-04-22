@@ -7,10 +7,6 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author Hemaa
- */
 public class Drug_List extends javax.swing.JFrame {
 Connection con = null;
 PreparedStatement pre = null;
