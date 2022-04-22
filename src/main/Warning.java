@@ -5,10 +5,7 @@
  */
 package main;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Warning extends javax.swing.JFrame {
 
     /**
