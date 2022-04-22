@@ -5,10 +5,7 @@
  */
 package main;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Show_Message extends javax.swing.JFrame {
 
     /**
