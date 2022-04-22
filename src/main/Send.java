@@ -10,10 +10,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hemaa
- */
+
 public class Send extends javax.swing.JFrame {
 Connection con = null;
 PreparedStatement pre= null;
